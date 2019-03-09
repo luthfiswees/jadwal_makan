@@ -5,4 +5,4 @@
 - Sate Padang
 
 ## Makan Malam
-- McD
+- KFC
